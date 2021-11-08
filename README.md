@@ -7,4 +7,5 @@ adding comments within the code to better identify sections, and organizing the 
 ## Links
 
 -Webpage URL: https://veoprato.github.io/horiseon-refactor/
+
 -Github Repo URL: https://github.com/Veoprato/horiseon-refactor
